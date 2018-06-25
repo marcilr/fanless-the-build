@@ -1,0 +1,51 @@
+corsair.txt
+Created Mon Jun 25 09:36:45 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Corsair ram
+
+
+Checking Corsair's site find:
+
+Crucial 16GB DDR4-2133 ECC UDIMM
+Upgrade for:         ASUS P10S WS
+Crucial part number: CT8363304
+Brand:               Crucial
+Form Factor:         EUDIMM
+Total Capacity:      16GB
+Warranty:            Limited Lifetime
+Specs:               DDR4 PC4-17000, CL=15, Dual Ranked, x8 based,
+                     Unbuffered, ECC, DDR4-2133, 1.2V, 2048Meg x 72
+Series:              Crucial
+ECC:                 ECC
+Speed:               2133 MT/S
+Voltage:             1.2V
+DIMM Type:           Unbuffered
+
+price:               4x $222.99 = $891.96
+
+
+http://www.crucial.com/usa/en/p10s-ws/CT8363304#productDetails
+
+
+The P10S WS supported ECC ram included:
+
+Make       Size   P/N
+------------------------------------
+Innodisk    8GB   M4CR-8GS1LC0G-BE93
+Innodisk   16GB   M4CR-AGS1MC0G-BE93   <=== Googled
+Kingston    4GB   KVR21E15S8/4HA
+Apacer      8GB   76.C105G.D100B
+Apacer     16GB   76.D105G.D110B
+
+Googled Innodisk M4CR-AGS1MC0G-BE93:
+  M4CR-AGS1MC0G-BE93 InnoDisk 16GB PC4-17000 DDR4-2133MHz
+  ECC Unbuffered CL15 288-Pin DIMM 1.2V Dual Rank Memory Module
+  Mfg Part No: M4CR-AGS1MC0G-BE93
+  price: $415.50
+  http://www.memory4less.com/innodisk-16gb-ddr4-pc17000-m4cr-ags1mc0g-be93
+
+  NOTE: The specs for Crucial CT8363304 track with the 
+        recommended Innodisk M4CR-AGS1MC0G-BE93
+
