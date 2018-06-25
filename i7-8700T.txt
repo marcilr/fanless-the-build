@@ -5,7 +5,8 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 	
 Intel Core i7-8700T Processor
 
-6-core, 14nm, 35W processor for $303.
+6 / 12 cores/threads at 2.4-4.0 GHz
+14nm, 35W processor for $303.
 
 Very nice.
 
