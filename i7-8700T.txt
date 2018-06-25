@@ -1,0 +1,40 @@
+i7-8700T.txt
+Created Mon Jun 25 08:21:32 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+	
+Intel Core i7-8700T Processor
+
+6-core, 14nm, 35W processor for $303.
+
+Very nice.
+
+
+make:                 Intel
+process number:       i7-8700T
+product collection:   8th Generation Intel Core i7 Processors
+code name:            Coffee Lake
+vertical segment:     Desktop
+launch date:          Q2'18
+lithography:          14nm
+
+base frequency:       2.40GHz
+Max turbo frequency:  4.00GHz
+# of cores:           6
+# of threads:         12
+cache:                12 MB SmartCache
+TDP:                  35W
+Configurable
+  TDP-down Frequency: 1.90GHz
+Configurable
+  TDP-down:           25W
+
+MSRP:                 $303
+--ark.intel.com/
+
+
+
+Links
+=====
+Intel Core i7-8700T Processor
+12M Cache, up to 4.00 GHz
