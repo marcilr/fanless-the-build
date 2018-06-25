@@ -35,9 +35,23 @@ MSRP:                 $303
 --ark.intel.com/
 
 
+Chipsets
+========
+Intel B360 Chipset
+Intel H370 Chipset
+Intel H310 Chipset
+Intel Q370 Chipset
+Intel Z370 Chipset
+--ark.intel.com/products/129948/Intel-Core-i7-8700T-Processor-12M-Cache-up-to-4_00-GHz
+
 
 Links
 =====
+Consumer Chipsets
+Intel Core i7-8700T Processor
+12M Cache, up to 4.00 GHz
+https://ark.intel.com/products/129948/Intel-Core-i7-8700T-Processor-12M-Cache-up-to-4_00-GHz
+
 Intel Core i7-8700T Processor
 12M Cache, up to 4.00 GHz
 https://ark.intel.com/products/129948/Intel-Core-i7-8700T-Processor-12M-Cache-up-to-4_00-GHz
