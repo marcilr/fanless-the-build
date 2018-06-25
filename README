@@ -5,6 +5,19 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+i7-7700T.txt
+  Intel Core i7-7700T Processor
+  8M Cache, up to 3.80 GHz
+  NOTE: It does not look like this processor supports ECC
+
+  Product Collection: 7th Generation Intel Core i7 Processors
+  Code Name:          Kaby Lake
+  Vertical Segment:   Desktop
+  Processor Number:   i7-7700T
+  Launch Date:        Q1'17
+  Lithography:        14nm
+  https://ark.intel.com/products/97122/Intel-Core-i7-7700T-Processor-8M-Cache-up-to-3_80-GHz
+
 i7-8700T.txt
   Intel Core i7-8700T
   6 / 12 cores/threads at 2.4-4.0 GHz
