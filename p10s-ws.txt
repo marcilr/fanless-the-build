@@ -12,7 +12,7 @@ cpu:     Build in Intel Socket 1151 Core i7/Core i5/Core i3/
 
 chipset: Intel 236
 
-ram:     4x DIMM, Max. 64GB, DDR4 2133 MHz ECC, Non-ECC,
+ram:     4x DIMM, Max. 64GB, DDR4 2133/2400 MHz ECC, Non-ECC UDIMM,
          Un-buffered Memory
          Dual Channel Memory Architecture 
          ** Refer to www.asus.com for the Memory QVL
