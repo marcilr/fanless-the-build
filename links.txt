@@ -23,6 +23,18 @@ CPU / Memory Support
 ASUS P10S WS
 https://www.asus.com/us/Motherboards/P10S-WS/HelpDesk_CPU/
 
+ECC memory
+From Wikipedia, the free encyclopedia
+"ECC DIMMs typically have nine memory chips on each side,
+one more than usually found on non-ECC DIMMs (some modules
+may have 5 or 18).[1]  Error-correcting code memory (ECC memory)
+is a type of computer data storage that can detect and correct
+the most common kinds of internal data corruption. ECC memory is
+used in most computers where data corruption cannot be tolerated
+under any circumstances, such as for scientific or financial
+computing."
+https://en.wikipedia.org/wiki/ECC_memory
+
 Specifications
 ASUS P10S WS
 https://www.asus.com/us/Motherboards/P10S-WS/specifications/
