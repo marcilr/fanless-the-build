@@ -6,3 +6,6 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 The Build
 
 
+The goal is to build a new fanless workstation motherboard with 
+ample ram and horsepower for several virtual machines.
+
