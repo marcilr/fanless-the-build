@@ -10,6 +10,9 @@ The goal is to build a new fanless workstation motherboard with
 ample ram and horsepower for several virtual machines.
 
 
-Intel Core i7-8700T - 6 / 12 cores/threads at 2.4-4.0 GHz
-                      at 35 W for 303 dollars.
+i7-8700T.txt
+  Intel Core i7-8700T Processor
+  6 / 12 cores/threads at 2.4-4.0 GHz
+  14nm, 35W processor for $303.
+  Very nice.
 
