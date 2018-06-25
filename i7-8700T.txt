@@ -24,7 +24,15 @@ base frequency:       2.40GHz
 Max turbo frequency:  4.00GHz
 # of cores:           6
 # of threads:         12
-cache:                12 MB SmartCache
+cache:                12 MB L3 Cache
+ram:                  DDR4 (2.666 MHz)
+                      only compatible with faster
+                      and more efficient DDR4-RAM
+                      --caseking.de/
+hyper-threading
+graphics:             Intel UHD Graphics 630
+motherboard:          300 series chipset
+                      --caseking.de/
 TDP:                  35W
 Configurable
   TDP-down Frequency: 1.90GHz
@@ -58,3 +66,6 @@ https://ark.intel.com/products/129948/Intel-Core-i7-8700T-Processor-12M-Cache-up
 
 Intel Core i7-8700T @ 2.40GHz
 https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-8700T+%40+2.40GHz&id=3213
+
+Product information - Core i7-8700T 2,4 GHz (Coffee Lake) Sockel 1151 - tray
+https://www.caseking.de/en/intel-core-i7-8700t-2-4-ghz-coffee-lake-sockel-1151-tray-hpit-507.html
