@@ -9,3 +9,7 @@ The Build
 The goal is to build a new fanless workstation motherboard with 
 ample ram and horsepower for several virtual machines.
 
+
+Intel Core i7-8700T - 6 / 12 cores/threads at 2.4-4.0 GHz
+                      at 35 W for 303 dollars.
+
