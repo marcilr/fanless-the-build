@@ -5,8 +5,16 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+i7-8700T.txt
+  Intel Core i7-8700T
+  6 / 12 cores/threads at 2.4-4.0 GHz
+  at 35 W for 303 dollars.
+
 links.txt
   Build related links
+
+pdf/
+  Portable Document Format files
 
 the-build.txt
   The Build
