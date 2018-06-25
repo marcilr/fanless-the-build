@@ -11,6 +11,11 @@ Intel Core i7-8700T Processor
 Very nice.
 
 
+NOTE: Since the ASUS P10S WS supports the i7-7700T Kaby Lake
+      I would assume it *does not* support the i7-8700T 
+      Coffee Lake processor.
+
+
 make:                 Intel
 process number:       i7-8700T
 product collection:   8th Generation Intel Core i7 Processors
