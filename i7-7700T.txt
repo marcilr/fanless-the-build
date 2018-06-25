@@ -1,0 +1,54 @@
+i7-7700T.txt
+Created Mon Jun 25 09:57:55 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Intel Core i7-7700T Processor
+8M Cache, up to 3.80 GHz
+
+
+NOTE: It does not look like this processor supports ECC
+
+
+Product Collection: 7th Generation Intel Core i7 Processors
+Code Name:          Kaby Lake
+Vertical Segment:   Desktop
+Processor Number:   i7-7700T
+Launch Date:        Q1'17
+Lithography:        14nm
+Recommended
+  Customer Price:   $303.00 - $312.00
+
+# of Cores:     4
+# of Threads:   8
+Processor Base Frequency:   2.90 GHz
+Max Turbo Frequency:        3.80 GHz
+Cache:                      8 MB SmartCache
+Bus Speed:                  8 GT/s DMI3
+# of QPI Links:             0
+TDP:                        35 W
+Configurable
+  TDP-down Frequency:       1.90 GHz
+Configurable
+  TDP-down:                 25 W
+--ark.intel.com/products/97122/Intel-Core-i7-7700T-Processor-8M-Cache-up-to-3_80-GHz
+
+Max Memory Size (dependent on memory type):   64 GB
+Memory Types:                                 DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V
+Max # of Memory Channels:                     2
+ECC Memory Supported:                         No   <===
+
+
+Links
+=====
+CPU / Memory Support
+...
+Core i7-7700T (2.9GHz, 4C, HT, L3:8M,Intel HD 600 series , 35W, rev.B0)
+Validated since BIOS: 3003
+(latest bios looks like version 3301)
+...
+https://www.asus.com/us/Motherboards/P10S-WS/HelpDesk_CPU/
+
+Intel Core i7-7700T Processor
+8M Cache, up to 3.80 GHz
+https://ark.intel.com/products/97122/Intel-Core-i7-7700T-Processor-8M-Cache-up-to-3_80-GHz
