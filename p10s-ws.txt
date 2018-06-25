@@ -6,7 +6,18 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 ASUS P10S WS motherboard
 
 
+cpu:     Build in Intel Socket 1151 Core i7/Core i5/Core i3/
+         for Xeon E3-1200 v5 and 6th genereation Core,
+         Pentium and Celeron Processors 
+
 chipset: Intel 236
+
+ram:     4x DIMM, Max. 64GB, DDR4 2133 MHz ECC, Non-ECC,
+         Un-buffered Memory
+         Dual Channel Memory Architecture 
+         ** Refer to www.asus.com for the Memory QVL
+         (Qualified Vendors Lists).
+         --www.asus.com/us/Motherboards/P10S-WS/specifications/
 
 sata:    8x SATA 6Gb/s ports
 M.2:     2x M.2 socket 22110
@@ -14,20 +25,94 @@ M.2:     2x M.2 socket 22110
 lan:     2x Intel 
 
 video:   HDMI, DisplayPort, DVI-D, and VGA
+         Integrated Graphics Processor 
+         Multi-VGA output support : HDMI/DVI-D/DisplayPort ports 
+         VGA port
+         - Supports VGA with max. resolution 1920 x 1200 @ 60 Hz
+         - Supports HDMI with max. resolution 4096 x 2160 @ 60 Hz / 
+           4096 x 2160 @ 24 Hz
+         - Supports DVI-D with max. resolution 1920 x 1200 @ 60 Hz
+         - Supports DisplayPort with max. resolution 4096 x 2304 @ 60 Hz 
+         Maximum shared memory of 512 MB
+         Supports Intel HD Graphics, InTru 3D, Quick Sync Video, 
+         Clear Video HD Technology, Insider™
+         --www.asus.com/us/Motherboards/P10S-WS/specifications/
+
          "...you’ll be able to connect and drive three
          independent displays simultaneously – great
          for multitasking, and even better for productivity."
+         --www.asus.com/us/Motherboards/P10S-WS/
+
+audio:   Realtek ALC1150 
 
 usb:     4x USB 3.0
          1x USB 3.1 Type A
          1x USB 3.1 Type C
 
-slots:   2x PCI-E x16 (Gen3 x16 / x8 Link)
-         2x PCI-E x16 (Gen3 x16 / x4 Link)
---www.asus.com/us/Motherboards/P10S-WS/
+slots:   1 x PCIe 3.0/2.0 x16 (x16/x8)
+         1 x PCIe 3.0/2.0 x16 (x8 mode) *1
+         1 x PCIe 3.0/2.0 x16 (x4 mode) *2
+         1 x PCIe 3.0/2.0 x16 (x4 mode) *2
+         --www.asus.com/us/Motherboards/P10S-WS/specifications/
+
+Back I/O ports
+  1x DVI-D
+  1x DisplayPort
+  1x HDMI
+  2x LAN (RJ45) port(s)
+  1x USB 3.1 Type-A
+  1x USB 3.1 USB Type-CTM
+  4x USB 3.1 Gen 1 
+  1x Optical S/PDIF out
+  1x 8-channel Audio I/O
+  1x VGA
+  --www.asus.com/us/Motherboards/P10S-WS/specifications/
+
+
+Internal I/O Port
+  1x AAFP connector
+  1x USB 3.1 Gen 1 connector(s) support(s) additional 2 USB 3.1 Gen 1 port(s) 
+  2x USB 2.0 connector(s) support(s) additional 4 USB 2.0 port(s)
+  2x M.2 Socket 3 
+  1x COM port(s) connector(s)
+  8x SATA 6Gb/s connector(s)
+  1x CPU OPT Fan connector(s) (1 x 4 -pin)
+  1x CPU fan with PWM control
+  4x Chassis Fan connector(s) (4 x 4 -pin)
+  1x S/PDIF out header(s)
+  1x 8-pin EATX 12 V Power connector
+  1x 6-pin EATX 12 V_1 Power connector(s)
+  1x 24-pin EATX Power connector(s)
+  1x System panel(s) (Q-Connector)
+  1x DRCT header(s)
+  1x MemOK! button(s)
+  1x EPU switch(es)
+  1x Power-on button(s)
+  1x Clear CMOS button(s)
+  1x USB BIOS Flashback button(s)
+  1x 14-1 pin TPM connector
+  --www.asus.com/us/Motherboards/P10S-WS/specifications/
+
+Accessories
+  User's manual
+  I/O Shield
+  1x COM port cable(s)
+  8x SATA 6Gb/s cable(s)
+  2x M.2 Screw Package
+  1x Q-connector(s) (2 in 1) 
+  1x SCD
+  --www.asus.com/us/Motherboards/P10S-WS/specifications/
+
+Power: 1x 8-pin EATX 12 V Power connector
+       1x 6-pin EATX 12 V_1 Power connector(s)
+       1x 24-pin EATX Power connector(s)
+       --www.asus.com/us/Motherboards/P10S-WS/specifications/
 
 
 Links
 =====
 ASUS P10S WS
 https://www.asus.com/us/Motherboards/P10S-WS/
+
+ASUS P10S WS Specifications
+https://www.asus.com/us/Motherboards/P10S-WS/specifications/
