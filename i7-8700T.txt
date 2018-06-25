@@ -18,6 +18,7 @@ code name:            Coffee Lake
 vertical segment:     Desktop
 launch date:          Q2'18
 lithography:          14nm
+socket:               1151
 
 base frequency:       2.40GHz
 Max turbo frequency:  4.00GHz
@@ -39,3 +40,7 @@ Links
 =====
 Intel Core i7-8700T Processor
 12M Cache, up to 4.00 GHz
+https://ark.intel.com/products/129948/Intel-Core-i7-8700T-Processor-12M-Cache-up-to-4_00-GHz
+
+Intel Core i7-8700T @ 2.40GHz
+https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-8700T+%40+2.40GHz&id=3213
